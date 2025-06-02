@@ -46,13 +46,35 @@ I'm Sneha, a tech-savvy DevOps engineer passionate about building resilient syst
 
 ---
 
-### 📈 GitHub Stats:
+### ☁️ Cloud & DevOps GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roxter207&show_icons=true&theme=tokyonight&hide_title=false" alt="Sneha's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxter207&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+
+  <!-- Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=roxter207&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxter207&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" width="48%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=roxter207&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="96%" />
+
 </p>
 
+---
+
+### 🧩 Cloud & DevOps Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-%23007ACC.svg?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSO2-%23F15A22.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-%23000000.svg?style=for-the-badge&logo=elastic&logoColor=white"/>
+</p>
 ---
 
 ### 🌍 Let's Connect:
