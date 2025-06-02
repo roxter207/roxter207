@@ -1,64 +1,65 @@
-<h1 align="center">Hi, I'm Sneha Kaimal 👋</h1>
-<h3 align="center">You think. I create.</h3>
+<!-- Sneha Kaimal | GitHub Profile README -->
+
+<h1 align="center">Hi there 👋, I'm Sneha Kaimal</h1>
+<h3 align="center">🚀 Aspiring DevOps & MLOps Engineer | Cloud Enthusiast | CI/CD Specialist</h3>
 
 ---
 
-## 🧠 About Me:
+### 🧠 About Me:
 
-I'm a passionate DevOps and MLOps engineer with a strong foundation in applied computer science, cloud platforms, and CI/CD automation. I love solving real-world problems by building scalable, secure, and automated infrastructure systems. 
-
-🔧 I work with containerized workloads, infrastructure-as-code, and monitoring stacks to streamline software delivery pipelines.  
-🧪 With experience in data engineering and model deployment, I bridge the gap between development and operations using cutting-edge ML tools and cloud services.  
-🌐 I believe in continuous learning, team collaboration, and making systems future-proof.
+I'm Sneha, a tech-savvy DevOps engineer passionate about building resilient systems using cloud-native tools. I love automating workflows, deploying infrastructure with code, and delivering scalable solutions. Whether it's through CI/CD pipelines or containerized microservices, I strive to bring efficiency and innovation to every project I work on.
 
 ---
 
-## ⚙️ Tech Stack:
+### 🔧 Tech Stack:
 
-### 🚀 Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![WSO2](https://img.shields.io/badge/WSO2-orange?style=for-the-badge&logo=apache&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+<div align="center">
+  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
-### 🔁 CI/CD & Automation  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
 
-### 📊 Monitoring & Observability  
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![WSO2](https://img.shields.io/badge/-WSO2-orange?style=flat&logo=wso2)
+![ELK Stack](https://img.shields.io/badge/-ELK-black?style=flat&logo=elastic)
 
-### 🧪 Data Science & MLOps  
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle)
 
-### 🛠️ Tools & Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats:
+### 📈 GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehakaimal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sneha's GitHub stats" height="200"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehakaimal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="200"/> |
-|---|---|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roxter207&show_icons=true&theme=tokyonight&hide_title=false" alt="Sneha's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxter207&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
 
 ---
 
-> _"Automation is the soul of efficiency. Creativity is the fuel of resilience."_
+### 🌍 Let's Connect:
 
-📍 Inspired by futuristic DevOps innovation and open-source excellence.  
-🔗 Connect with me soon via my upcoming [portfolio site](#) *(Coming Soon)*
+- 💼 LinkedIn: [linkedin.com/in/sneha-kaimal](https://linkedin.com/in/sneha-kaimal)
+- 🌐 Portfolio: [sneha.com](http://sneha.com)
+- 🧠 Motto: *You think. I create.*
+
+---
 
